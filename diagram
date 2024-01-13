@@ -1,0 +1,79 @@
+<mxfile host="app.diagrams.net" modified="2023-11-10T13:55:51.152Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="1QgpFuAxYRAreKw1qqLs" version="22.1.0" type="device">
+  <diagram name="Pagina-1" id="uHodt9FPKLkpH2O3fwMr">
+    <mxGraphModel dx="1454" dy="2069" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="bZqMN6w_omIHpWPTaUad-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bZqMN6w_omIHpWPTaUad-1" target="bZqMN6w_omIHpWPTaUad-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bZqMN6w_omIHpWPTaUad-1" value="Bluesky" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bZqMN6w_omIHpWPTaUad-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bZqMN6w_omIHpWPTaUad-2" target="bZqMN6w_omIHpWPTaUad-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bZqMN6w_omIHpWPTaUad-2" value="RayPyNG-bluesky" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bZqMN6w_omIHpWPTaUad-4" value="Create Ophyd Devices from XML" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="190" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bZqMN6w_omIHpWPTaUad-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bZqMN6w_omIHpWPTaUad-8" target="bZqMN6w_omIHpWPTaUad-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bZqMN6w_omIHpWPTaUad-8" value="Preprocessor:&lt;br&gt;check if scan is composed of simulated devices" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="110" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bZqMN6w_omIHpWPTaUad-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bZqMN6w_omIHpWPTaUad-10" target="bZqMN6w_omIHpWPTaUad-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bZqMN6w_omIHpWPTaUad-10" value="yes" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="370" y="150" width="34" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="bZqMN6w_omIHpWPTaUad-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bZqMN6w_omIHpWPTaUad-11" target="bZqMN6w_omIHpWPTaUad-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bZqMN6w_omIHpWPTaUad-11" value="no" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="370" y="100" width="34" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="bZqMN6w_omIHpWPTaUad-12" value="normal Bluesky procedure" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="327" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bZqMN6w_omIHpWPTaUad-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bZqMN6w_omIHpWPTaUad-13" target="bZqMN6w_omIHpWPTaUad-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bZqMN6w_omIHpWPTaUad-13" value="Add TriggerDetector to detector list" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="137" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bZqMN6w_omIHpWPTaUad-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.045;entryY=0.519;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="bZqMN6w_omIHpWPTaUad-8" target="bZqMN6w_omIHpWPTaUad-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bZqMN6w_omIHpWPTaUad-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bZqMN6w_omIHpWPTaUad-18" target="bZqMN6w_omIHpWPTaUad-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bZqMN6w_omIHpWPTaUad-18" value="TriggerDetector uses RayPyNG to update the XML file" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bZqMN6w_omIHpWPTaUad-20" value="for each point in the scan" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="197" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bZqMN6w_omIHpWPTaUad-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bZqMN6w_omIHpWPTaUad-21" target="bZqMN6w_omIHpWPTaUad-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bZqMN6w_omIHpWPTaUad-21" value="TriggerDetector start simulation, export the results, communicates that the simulation is finished" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="350" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="bZqMN6w_omIHpWPTaUad-23" value="Start a scan" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="84" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bZqMN6w_omIHpWPTaUad-25" value="The other detectors read the simulation result file&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bZqMN6w_omIHpWPTaUad-27" value="HOW IT WORKS NOW" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="-40" width="190" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

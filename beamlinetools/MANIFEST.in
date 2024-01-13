@@ -1,0 +1,3 @@
+include versioneer.py
+include bessyii_devices/_version.py
+include beamlinetools/_version.py

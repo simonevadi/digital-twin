@@ -1,0 +1,7 @@
+raypyng>=0.0.12
+bluesky
+ophyd
+databroker
+ipython
+pyqt5
+

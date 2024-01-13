@@ -1,0 +1,39 @@
+\babel@toc {english}{}\relax 
+\contentsline {chapter}{\numberline {1}Installation}{3}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Install RAY\sphinxhyphen {}UI}{3}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Install xvfb}{3}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Install raypyng\sphinxhyphen {}bluesky}{3}{section.1.3}%
+\contentsline {chapter}{\numberline {2}Tutorial}{5}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Setup an Ipython profile}{5}{section.2.1}%
+\contentsline {section}{\numberline {2.2}What can go wrong, and how to correct it}{6}{section.2.2}%
+\contentsline {section}{\numberline {2.3}RaypyngOphyd \sphinxhyphen {} Motors}{7}{section.2.3}%
+\contentsline {section}{\numberline {2.4}RaypyngOphyd \sphinxhyphen {} Detectors}{7}{section.2.4}%
+\contentsline {section}{\numberline {2.5}A scan in Bluesky}{7}{section.2.5}%
+\contentsline {chapter}{\numberline {3}How To Guides}{9}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Change grating}{9}{section.3.1}%
+\contentsline {chapter}{\numberline {4}API}{11}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Create Ophyd Devices from rml file}{11}{section.4.1}%
+\contentsline {subsection}{\numberline {4.1.1}RaypyngOphydDevices}{11}{subsection.4.1.1}%
+\contentsline {subsection}{\numberline {4.1.2}RaypyngDictionary}{12}{subsection.4.1.2}%
+\contentsline {section}{\numberline {4.2}Ophyd Signals}{12}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}RayPySignal}{12}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.2.2}RayPySignalRO}{13}{subsection.4.2.2}%
+\contentsline {section}{\numberline {4.3}Ophyd Axes}{13}{section.4.3}%
+\contentsline {subsection}{\numberline {4.3.1}Axes}{13}{subsection.4.3.1}%
+\contentsline {subsection}{\numberline {4.3.2}SimulatedAxisSource}{14}{subsection.4.3.2}%
+\contentsline {subsection}{\numberline {4.3.3}class SimulatedAxisMisalign(RaypyngAxis):}{14}{subsection.4.3.3}%
+\contentsline {subsection}{\numberline {4.3.4}SimulatedAxisAperture}{14}{subsection.4.3.4}%
+\contentsline {subsection}{\numberline {4.3.5}SimulatedAxisGrating}{14}{subsection.4.3.5}%
+\contentsline {section}{\numberline {4.4}Ophyd Detectors}{15}{section.4.4}%
+\contentsline {subsection}{\numberline {4.4.1}Detector}{15}{subsection.4.4.1}%
+\contentsline {subsection}{\numberline {4.4.2}Trigger Detector}{16}{subsection.4.4.2}%
+\contentsline {section}{\numberline {4.5}Ophyd Devices}{16}{section.4.5}%
+\contentsline {subsection}{\numberline {4.5.1}MisalignComponents}{16}{subsection.4.5.1}%
+\contentsline {subsection}{\numberline {4.5.2}SimulatedPGM}{17}{subsection.4.5.2}%
+\contentsline {subsection}{\numberline {4.5.3}SimulatedApertures}{17}{subsection.4.5.3}%
+\contentsline {subsection}{\numberline {4.5.4}SimulatedMirror}{17}{subsection.4.5.4}%
+\contentsline {subsection}{\numberline {4.5.5}SimulatedSource}{17}{subsection.4.5.5}%
+\contentsline {section}{\numberline {4.6}Preprocessor}{18}{section.4.6}%
+\contentsline {subsection}{\numberline {4.6.1}MisalignComponents}{18}{subsection.4.6.1}%
+\contentsline {subsection}{\numberline {4.6.2}SupplementalDataRaypyng}{18}{subsection.4.6.2}%
+\contentsline {chapter}{Index}{19}{section*.46}%
