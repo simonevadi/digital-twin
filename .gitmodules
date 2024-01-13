@@ -1,3 +1,6 @@
 [submodule "raypyng-bluesky"]
 	path = raypyng-bluesky
 	url = https://github.com/hz-b/raypyng-bluesky
+[submodule "raypyng"]
+	path = raypyng
+	url = https://github.com/hz-b/raypyng
