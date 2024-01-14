@@ -23,7 +23,7 @@ Make sure you have RAY-UI installed, possibly in the home folder. If you don't, 
 ## Bluesky
 We use bluesky via an ipython profile, in this case `profile_raypyng`. Normally in the startup folder of an ipython profile there are files that are loaded before running the ipython session. In this case the startup file is loading the content of `beamlinetools/BEAMLINE_CONFIG`. 
 
-The digital twin is configured in the file `beamlinetools/BEAMLINE_CONFIG/digital_twin.py`. The rml file that is loaded is in the rml folder in this project.
+The digital twin is configured in the file `beamlinetools/BEAMLINE_CONFIG/digital_twin.py`. The rml file that is loaded is in the rml folder in this project, by default the `rml/elisa.rml` file is used.
 
 ### Bluesky concepts to get familiar with
 1. [Bluesky Project](https://blueskyproject.io/) website
