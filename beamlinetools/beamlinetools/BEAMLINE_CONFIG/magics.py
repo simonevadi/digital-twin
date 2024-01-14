@@ -5,7 +5,7 @@ from beamlinetools.magics.peakinfo import PeakInfoMagic
 from bluesky.magics import BlueskyMagics
 from beamlinetools.magics.standard_magics import BlueskyMagicsCustom
 
-
+from .base import *
 ## IMPORTANT : do not change the order of the follwing two lines. 
 # standard magics
 get_ipython().register_magics(BlueskyMagics)
