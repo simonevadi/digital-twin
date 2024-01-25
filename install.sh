@@ -13,7 +13,7 @@ pip install -e ./raypyng-bluesky
 pip install -e ./beamlinetools
 
 
-pip install ipython
+pip install ipython notebook twisted
 
 
 
