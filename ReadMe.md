@@ -54,7 +54,7 @@ Scans can be done as normally in bluesky, but it is forbidden to mix simlated an
 4. The other detectors read the result files. 
 
 ## Using a server
-I am testing some extensions to be able to send the simulations on to do on a server. 
+I am testing some extensions to be able to send the simulations on to do on a server. The work is available on the branch `1022-client`
 
 ## Usage
 Start the ipython profile by running 
