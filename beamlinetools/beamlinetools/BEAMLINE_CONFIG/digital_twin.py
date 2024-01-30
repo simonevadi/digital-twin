@@ -20,7 +20,7 @@ RaypyngOphydDevices(RE=RE, rml_path=rml_path, temporary_folder=None, name_space=
 
 
 # with server
-# from raypyng_bluesky.RaypyngOphydDevices import RaypyngOphydDevices
+from raypyng_bluesky.RaypyngOphydDevices import RaypyngOphydDevices
 
 # RaypyngOphydDevices(RE=RE, # this is the RunEngine
 #                     rml_path=rml_path, # path to elisa.rml
@@ -28,7 +28,7 @@ RaypyngOphydDevices(RE=RE, rml_path=rml_path, temporary_folder=None, name_space=
 #                     temporary_folder=None, 
 #                     name_space=None, 
 #                     simulation_engine='rayuiClient', 
-#                     ip='localhost',
+#                     ip='127.0.0.1',
 #                     port=12345)
 
 # to run the server use file 
